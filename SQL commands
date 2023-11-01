@@ -1,0 +1,2 @@
+select * from table_name;
+create table table_name;
